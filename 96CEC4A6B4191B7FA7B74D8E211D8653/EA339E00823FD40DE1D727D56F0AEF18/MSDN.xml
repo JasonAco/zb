@@ -2,15 +2,15 @@
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <zerobyte>
     <update>2018/02/13</update>
-    <packinfo>Not key available</packinfo>
-    <sha>-</sha>
-    <dl>-</dl>
+    <packinfo>Package 1</packinfo>
+    <sha>kj23h4jk2h432jkh42jk43242</sha>
+    <dl>https://goo.gl/pZmtkA</dl>
 </zerobyte>
 
  <zerobyte>
     <update>2018/02/14</update>
-    <packinfo>Not key available</packinfo>
-    <sha>-</sha>
-    <dl>-</dl>
+    <packinfo>Package 1</packinfo>
+    <sha>kj23h4jk2h432jkh42jk43242</sha>
+    <dl>https://goo.gl/pZmtkA</dl>
 </zerobyte>
 </BlackRoter>
