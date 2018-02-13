@@ -2,15 +2,29 @@
 <BlackRoter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <zerobyte>
     <update>2018/02/13</update>
-    <packinfo>Package 1</packinfo>
-    <sha>kj23h4jk2h432jkh42jk43242</sha>
-    <dl>https://goo.gl/pZmtkA</dl>
+    <packinfo>Microsoft Office 365 ProPlus</packinfo>
+    <sha>-</sha>
+    <dl>https://goo.gl/6rdDBX</dl>
 </zerobyte>
 
  <zerobyte>
-    <update>2018/02/14</update>
-    <packinfo>Package 1</packinfo>
-    <sha>kj23h4jk2h432jkh42jk43242</sha>
-    <dl>https://goo.gl/pZmtkA</dl>
+    <update>2018/02/13</update>
+    <packinfo>Windows Server 2016 Version 1709 - January 2018 Edition</packinfo>
+    <sha>-</sha>
+    <dl>https://goo.gl/dHa5pX</dl>
+</zerobyte>
+
+ <zerobyte>
+    <update>2018/02/13</update>
+    <packinfo>Windows 10 MSDN Update December 2017</packinfo>
+    <sha>-</sha>
+    <dl>https://goo.gl/9wGRQg</dl>
+</zerobyte>
+
+ <zerobyte>
+    <update>2018/02/13</update>
+    <packinfo>All Windows OLD MSDN</packinfo>
+    <sha>-</sha>
+    <dl>https://goo.gl/Uu91JE</dl>
 </zerobyte>
 </BlackRoter>
